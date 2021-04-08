@@ -24,7 +24,7 @@ export default {
        services:[
       {
        id:1,
-       subject:"Burger",
+       subject:"Fries",
        active:true
       },
       {
